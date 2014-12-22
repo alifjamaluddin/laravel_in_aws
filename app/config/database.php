@@ -54,7 +54,7 @@ return array(
 
 		'mysql' => array(
 			'driver'    => 'mysql',
-			'host'      => 'http://ec2-54-149-225-73.us-west-2.compute.amazonaws.com/',
+			'host'      => 'localhost',
 			'database'  => 'kodegkdb',
 			'username'  => 'root',
 			'password'  => 'kodegk',
