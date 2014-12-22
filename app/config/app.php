@@ -26,7 +26,7 @@ return array(
 	|
 	*/
 
-	'url' => 'http://localhost:8888/laravel/blog/public',
+	'url' => 'http://ec2-54-149-225-73.us-west-2.compute.amazonaws.com/kodegeek/public/',
 
 	/*
 	|--------------------------------------------------------------------------
