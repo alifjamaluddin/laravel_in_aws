@@ -54,10 +54,10 @@ return array(
 
 		'mysql' => array(
 			'driver'    => 'mysql',
-			'host'      => 'localhost',
-			'database'  => 'forge',
-			'username'  => 'forge',
-			'password'  => '',
+			'host'      => 'http://ec2-54-149-225-73.us-west-2.compute.amazonaws.com/',
+			'database'  => 'kodegkdb',
+			'username'  => 'root',
+			'password'  => 'kodegk',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
