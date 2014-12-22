@@ -54,7 +54,7 @@ return array(
 
 		'mysql' => array(
 			'driver'    => 'mysql',
-			'host'      => 'localhost:3306',
+			'host'      => '54.149.225.73:3306',
 			'database'  => 'kodegkdb',
 			'username'  => 'root',
 			'password'  => 'kodegk',
